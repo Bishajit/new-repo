@@ -1,0 +1,1 @@
+[Fri Feb 11 14:02:08.872885 2022] [mpm_event:notice] [pid 1017:tid 140416313850944] AH00491: caught SIGTERM, shutting down
